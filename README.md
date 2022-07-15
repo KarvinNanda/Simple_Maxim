@@ -5,7 +5,9 @@ Simple Maxim website for order driver to pick up customer and take customer to t
 This website buildig using Laravel 8 using XAMPP as Web Server which have features: <br>
 -> CRUD <br>
 -> Authentication <br>
--> Middleware and Form Validaiton using Validator <br>
+-> Middleware <br>
+-> Form Validaiton using Validator <br>
+-> Pasword Hashing <br>
 
 ## Getting Started
 First,run this command : <br>
